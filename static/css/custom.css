@@ -1,0 +1,11 @@
+@import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/bullet_threading.css");
+
+:root {
+  --ls-main-content-max-width: 90%;
+  --ls-main-content-max-width-wide: 95%;
+}
+
+:root {
+  --ls-block-bullet-active-color: #9cb380;
+  --ls-block-bullet-threading-width: 2px;
+}
